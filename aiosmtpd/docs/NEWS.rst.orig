@@ -13,10 +13,6 @@
 * Improve Controller ssl_context documentation.
 * Add timeout feature. (Partial fix for #145)
 
-1.4.6 (2024-05-06)
-==================
-
-* STARTTLS is now fully enforced if used.
 
 1.1 (2017-07-06)
 ================
