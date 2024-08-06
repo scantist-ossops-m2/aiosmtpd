@@ -27,10 +27,6 @@ Removed
 * Unit Tests that mocked too deep, possibly masking observable internal behaviors
 * Drop support for Python 3.5
 
-1.4.6 (2024-05-06)
-==================
-
-* STARTTLS is now fully enforced if used.
 
 1.2 (2018-09-01)
 ================
