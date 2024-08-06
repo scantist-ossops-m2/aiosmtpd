@@ -16,10 +16,6 @@ Fixed/Improved
   it is now treated as simple Base64-encoded ``b""``.
   This is the correct, strict interpretation of :rfc:`4954` mentions about ``=``
 
-1.4.6 (2024-05-06)
-==================
-
-* STARTTLS is now fully enforced if used.
 
 1.2.3 (2021-01-14)
 ==================
